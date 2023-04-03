@@ -1,0 +1,3 @@
+﻿  text.cpp
+D:\programming\face detection project\face detection project\text.cpp(38,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  face detection project.vcxproj -> D:\programming\face detection project\x64\Debug\face detection project.exe
